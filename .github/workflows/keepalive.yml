@@ -9,7 +9,7 @@ jobs:
   keepalive:
     runs-on: ubuntu-latest
     env:
-      URL: "https://adzizrf-etnavesx.hf.space/"
+      URL: "https://auto2028-lovebs.hf.space"
       MAX_ATTEMPTS: 3
       BASE_SLEEP: 5
     steps:
